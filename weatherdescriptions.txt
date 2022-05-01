@@ -1,0 +1,32 @@
+,weather_description
+0,scattered clouds
+1,broken clouds
+3,overcast clouds
+9,light rain
+11,moderate rain
+14,mist
+19,heavy intensity rain
+31,light intensity drizzle
+45,few clouds
+53,sky is clear
+354,light snow
+477,light rain and snow
+832,snow
+848,fog
+1147,drizzle
+1897,heavy snow
+2114,rain and snow
+3502,thunderstorm
+3518,haze
+3521,thunderstorm with rain
+4450,thunderstorm with light rain
+5364,thunderstorm with heavy rain
+5370,very heavy rain
+13087,heavy intensity shower rain
+14501,proximity thunderstorm
+18725,freezing rain
+42208,light intensity shower rain
+62380,heavy intensity drizzle
+87590,smoke
+107677,shower rain
+129955,shower snow
